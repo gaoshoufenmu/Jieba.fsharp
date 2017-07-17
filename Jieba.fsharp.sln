@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Jieba.fsharp", "Jieba.fsharp\Jieba.fsharp.fsproj", "{4AEBDDEB-A60A-4B84-9DCC-F848BD9C400B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Jieba.test.fsharp", "Jieba.test.fsharp\Jieba.test.fsharp.fsproj", "{CB32E1D3-D242-4F4F-8091-6A6D1E390DAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C652AD89-0C74-46C7-BBCB-9D749D7F1F24}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AEBDDEB-A60A-4B84-9DCC-F848BD9C400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEBDDEB-A60A-4B84-9DCC-F848BD9C400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEBDDEB-A60A-4B84-9DCC-F848BD9C400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEBDDEB-A60A-4B84-9DCC-F848BD9C400B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB32E1D3-D242-4F4F-8091-6A6D1E390DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB32E1D3-D242-4F4F-8091-6A6D1E390DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB32E1D3-D242-4F4F-8091-6A6D1E390DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB32E1D3-D242-4F4F-8091-6A6D1E390DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
