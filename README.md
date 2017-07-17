@@ -1,0 +1,2 @@
+# Jieba.fsharp
+Jieba segmentation
